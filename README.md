@@ -7,9 +7,18 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- Why did you build this project?
 - What problem does it solve?
 - What did you learn?
+> Provide general information about your project here.
+> What problem does it (intend to) solve?
+> What is the purpose of your project?
+> Why did you undertake it?
+
+
+
+
+---
 
 ## Table of Contents
 
@@ -54,7 +63,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - The survey measures American attitudes on politics and major policy issues 
 - Data from this wave was analyzed as part of the Global Attitudes Survey, Spring 2021 
 
-<br> :pencil2: <ins> **A list of the relevant topics that were covered in the current wave** </ins>:
+<br> :pencil2: <ins> **Topics that were covered in the current wave** </ins>:
 - Political values, partisanship
 - Democracy and governance
 - Attitudes toward social diversity
@@ -66,7 +75,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 
 
-<br><ins> **For access to the questionnaire, please refer to** </ins>:
+<br><ins> **For access to the questionnaire** </ins>:
 
 :bookmark_tabs: [Questionnaire - American Trends Panel Wave 82](_04_output.py)
 :bookmark_tabs: [Questionnaire - Global Attitudes Survey](_04_output.py)
@@ -85,18 +94,8 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
 This project is licensed under the terms of `mit`.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
