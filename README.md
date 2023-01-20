@@ -1,1 +1,94 @@
-# Climate-Attitudes-Cross-Country-Comparison
+# The level of confidence in multilateral efforts to <br> combat climate change: A comparison of 6 advanced economies
+
+
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+## Table of Contents
+
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Datasets](#datasets)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
+
+## Datasets
+
+:open_file_folder: **Source**: The Pew Research Center
+
+:bar_chart: [_04_output.py](_04_output.py):
+  Global Attitudes Survey, Spring 2021.
+-  A global survey conducted across 15 advanced economies, among adults aged 18 and older
+    - <ins> Oceania </ins> - Australia, New Zealand
+    - <ins> North America </ins> - Canada
+    - <ins> Europe </ins> - Belgium, France, Germany, Italy, the Netherlands, Spain, Sweden, the UK
+    - <ins> Asia </ins> - Japan, Singapore, South Korea, Taiwan
+- The survey covers a range of subjects, from people’s assessments of their own lives to their attitudes about the current state of the world
+
+:bar_chart: [_04_output.py](_04_output.py):
+  American Trends Panel Wave 82, February 2021.
+- A public opinion survey of the U.S. adult population (aged 18 and older)
+- The survey measures American attitudes on politics and major policy issues 
+- Data from this wave was analyzed as part of the Global Attitudes Survey, Spring 2021 
+
+<br> :pencil2: <ins> **A list of the relevant topics that were covered in the current wave** </ins>:
+- Political values, partisanship
+- Democracy and governance
+- Attitudes toward social diversity
+- Concerns about the changing climate
+- Willingness to adapt behavior to reduce the impacts of climate change
+- National and multilateral organizations’ capacity of dealing with climate change
+- The impacts of international climate action on the domestic economy
+- The effectiveness of taking international climate action
+   
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+:busts_in_silhouette:
+
+
+## License
+
+This project is licensed under the terms of `mit`.
+
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Features
+
+If your project has a lot of features, list them here.
