@@ -94,8 +94,8 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-
 This project is licensed under the terms of `mit`.
+
+See [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE) for more information. 
 
 ---
