@@ -63,7 +63,15 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - National and multilateral organizations’ capacity of dealing with climate change
 - The impacts of international climate action on the domestic economy
 - The effectiveness of taking international climate action
-   
+
+
+
+<br><ins> **For access to the questionnaire, please refer to** </ins>:
+
+:bookmark_tabs: [Questionnaire - American Trends Panel Wave 82](_04_output.py)
+:bookmark_tabs: [Questionnaire - Global Attitudes Survey](_04_output.py)
+
+
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
